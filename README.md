@@ -1,7 +1,7 @@
 # CFAR-Based Radar Target Detection (RTL + MATLAB)
 
 <p align="center">
-  <img src="assests/basys3.jpg" width="500"/>
+  <img src="assests/basys3.jpeg" width="500"/>
 </p>
 
 ## 🚀 Overview
