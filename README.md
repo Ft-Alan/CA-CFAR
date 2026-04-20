@@ -1,5 +1,9 @@
 # CFAR-Based Radar Target Detection (RTL + MATLAB)
 
+<p align="center">
+  <img src="assets/basys3.jpg" width="500"/>
+</p>
+
 ## 🚀 Overview
 
 This project implements a **CFAR (Constant False Alarm Rate) based radar target detection system** using a full signal processing pipeline:
