@@ -185,6 +185,9 @@ Key aspects:
 │   ├── ant1_i.mem
 │   └── power_s.mem
 │
+├── constraints/
+│   └── basys3.xdc
+│
 └── README.md
 ```
 
