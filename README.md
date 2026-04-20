@@ -168,8 +168,6 @@ Key aspects:
 
 ```
 ├── matlab/
-│   ├── signal_generation.m
-│   ├── cfar_model.m
 │   └── data_export.m
 │
 ├── rtl/
@@ -180,7 +178,7 @@ Key aspects:
 │   └── bram_sp.v
 │
 ├── tb/
-│   └── cfar_tb.v
+│   └── cfar_top_tb.v
 │
 ├── data/
 │   ├── ant1_r.mem
